@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1561386918 source:e:\00_2do_parcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1561386768 e:\00_2do_parcial\employee.h
+	"LinkedList.h"
+
+1561383438 e:\00_2do_parcial\linkedlist.h
+
+1559709310 source:e:\00_2do_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1559710364 e:\00_2do_parcial\funciones.h
+
+1561385546 source:e:\00_2do_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561387070 source:e:\00_2do_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1561381302 source:e:\00_2do_parcial\parser.c
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"parser.h"
+
+1561379988 e:\00_2do_parcial\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1561387474 source:e:\00_2do_parcial\controller.c
+	<stdlib.h>
+	"Funciones.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1561386682 e:\00_2do_parcial\controller.h
+	"LinkedList.h"
+
+1559709310 source:g:\00_2do_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1559710364 g:\00_2do_parcial\funciones.h
+
+1561381302 source:g:\00_2do_parcial\parser.c
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"parser.h"
+
+1561561854 g:\00_2do_parcial\employee.h
+	"LinkedList.h"
+
+1561561778 g:\00_2do_parcial\linkedlist.h
+
+1561379988 g:\00_2do_parcial\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1561566982 source:g:\00_2do_parcial\controller.c
+	<stdlib.h>
+	"Funciones.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1561566296 g:\00_2do_parcial\controller.h
+	"LinkedList.h"
+
+1561566698 source:g:\00_2do_parcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1561565268 source:g:\00_2do_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561566982 source:g:\00_2do_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1561567014 source:d:\documents\programacion\00_2do_parcial\controller.c
+	<stdlib.h>
+	"Funciones.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1559710364 d:\documents\programacion\00_2do_parcial\funciones.h
+
+1561566296 d:\documents\programacion\00_2do_parcial\controller.h
+	"LinkedList.h"
+
+1561561778 d:\documents\programacion\00_2do_parcial\linkedlist.h
+
+1561561854 d:\documents\programacion\00_2do_parcial\employee.h
+	"LinkedList.h"
+
+1561379988 d:\documents\programacion\00_2do_parcial\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1561566698 source:d:\documents\programacion\00_2do_parcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1559709310 source:d:\documents\programacion\00_2do_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1561565268 source:d:\documents\programacion\00_2do_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561566982 source:d:\documents\programacion\00_2do_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1561381302 source:d:\documents\programacion\00_2do_parcial\parser.c
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"parser.h"
+
+1561567014 source:d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\controller.c
+	<stdlib.h>
+	"Funciones.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1559710364 d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\funciones.h
+
+1561566296 d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\controller.h
+	"LinkedList.h"
+
+1561561778 d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\linkedlist.h
+
+1561561854 d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\employee.h
+	"LinkedList.h"
+
+1561379988 d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1561566698 source:d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1559709310 source:d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1561565268 source:d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561566982 source:d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Funciones.h"
+
+1561381302 source:d:\documents\programacion\compartidos conmigo laboratorio 1\00_2do_parcial\parser.c
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"parser.h"
+

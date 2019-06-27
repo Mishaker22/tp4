@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1561601218 source:d:\documents\programacion\practica parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Empleado.h"
+	"Validaciones.h"
+
+1561586310 source:d:\documents\programacion\practica parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1560218490 d:\documents\programacion\practica parcial\linkedlist.h
+
+1561600970 source:d:\documents\programacion\practica parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+	"controller.h"
+	"parser.h"
+	"Validaciones.h"
+
+1561600728 d:\documents\programacion\practica parcial\empleado.h
+
+1561587842 d:\documents\programacion\practica parcial\controller.h
+
+1561592218 d:\documents\programacion\practica parcial\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1561588263 d:\documents\programacion\practica parcial\validaciones.h
+
+1561592255 source:d:\documents\programacion\practica parcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1561589397 source:d:\documents\programacion\practica parcial\parser.c
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"parser.h"
+
+1561588334 source:d:\documents\programacion\practica parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
